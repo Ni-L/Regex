@@ -1,0 +1,16 @@
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\RegexPattermExample.exe
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\RegexPattermExample.deps.json
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\RegexPattermExample.runtimeconfig.json
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\RegexPattermExample.runtimeconfig.dev.json
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\RegexPattermExample.dll
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\ref\RegexPattermExample.dll
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\bin\Debug\net5.0\RegexPattermExample.pdb
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.csprojAssemblyReference.cache
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.AssemblyInfoInputs.cache
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.AssemblyInfo.cs
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.dll
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\ref\RegexPattermExample.dll
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.pdb
+C:\Users\Aishwarya\source\repos\Regex\RegexPattermExample\RegexPattermExample\obj\Debug\net5.0\RegexPattermExample.genruntimeconfig.cache
